@@ -3,7 +3,7 @@ Simple script to extract unique directories/structures from a list of URLs, main
 
 
 ## Example usage
-Get a list of unique and known directories/structures for a given target, gathering URLs using [gau]().
+Get a list of unique and known directories/structures for a given target, gathering URLs using [gau](https://github.com/lc/gau).
 ```
 gau example.com | python3 pathfinder.py
 ```
